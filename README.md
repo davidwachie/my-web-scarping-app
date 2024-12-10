@@ -15,16 +15,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Author>David Munialo</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>David Munialo</o:LastAuthor>
-  <o:Revision>2</o:Revision>
-  <o:TotalTime>5</o:TotalTime>
+  <o:Revision>3</o:Revision>
+  <o:TotalTime>12</o:TotalTime>
   <o:Created>2024-12-10T05:55:00Z</o:Created>
-  <o:LastSaved>2024-12-10T06:00:00Z</o:LastSaved>
+  <o:LastSaved>2024-12-10T08:37:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>114</o:Words>
-  <o:Characters>656</o:Characters>
+  <o:Words>120</o:Words>
+  <o:Characters>687</o:Characters>
   <o:Lines>5</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>769</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>806</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -50,6 +50,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
    <w:BreakWrappedTables/>
    <w:SplitPgBreakAndParaMark/>
   </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
   <m:mathPr>
    <m:mathFont m:val="Cambria Math"/>
    <m:brkBin m:val="before"/>
@@ -656,7 +657,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:minor-fareast;}
 a:link, span.MsoHyperlink
-	{mso-style-priority:99;
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
 	color:#0563C1;
 	mso-themecolor:hyperlink;
 	text-decoration:underline;
@@ -728,9 +730,9 @@ div.WordSection1
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>#
 my-web-scraping-app This app is designed to scrape data from any website,
 extract relevant content such as headings, paragraphs, links, and images, and
-perform sentiment analysis on the text content. It is an interactive tool that
-allows users to input any URL, choose specific data to scrape, and view the
-results directly within the <o:p></o:p></span></p>
+perform sentiment analysis on the text content. It is an interactive tool that allows
+users to input any URL, choose specific data to scrape, and view the results
+directly within the <o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>It
 also includes features like: <o:p></o:p></span></p>
@@ -765,7 +767,9 @@ style='mso-spacerun:yes'>&nbsp;</span>- BeautifulSoup<o:p></o:p></span></p>
 style='mso-spacerun:yes'>&nbsp;</span>- Pandas <o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>![App
-Screenshot](images/capture.png) 0958d8bc9b3b79ca54b6dc8e11ea0f8931b38bdc <o:p></o:p></span></p>
+Screenshot]https://github.com/davidwachie/my-web-scraping-app/commit/6bc642aa13e2b6ce28e8c3b2bf833401854a310a<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 </div>
 
